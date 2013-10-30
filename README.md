@@ -1,4 +1,4 @@
-CakePHP-Foundation-Plugin
-=========================
+CakePHP Zurb Foundation Plugin
+==============================
 
-CakePHP Foundation Plugin
+CakePHP Zurb Foundation Plugin
