@@ -1,4 +1,4 @@
-CakePHP Zurb Foundation Plugin
-==============================
+CakePHP 3x Theme Template Plugin
+================================
 
-CakePHP Zurb Foundation Plugin
+CakePHP 3x Theme Template Plugin
