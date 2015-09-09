@@ -1,4 +1,4 @@
-CakePHP 3x Theme Template Plugin
-================================
+CakePHP 3.x Theme Template Plugin
+=================================
 
-CakePHP 3x Theme Template Plugin
+CakePHP 3.x Theme Template Plugin
